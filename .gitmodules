@@ -1,0 +1,6 @@
+[submodule "skills/mpd"]
+	path = skills/mpd
+	url = https://github.com/DamionH0108/mpd.git
+[submodule "tools/claude-network-guard"]
+	path = tools/claude-network-guard
+	url = https://github.com/DamionH0108/claude-network-guard.git
